@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding:0;
+    height: 100%;
+    width: 100%;
+}
+
+navbar {
+    position:fixed;
+    width: 100%;
+    height: 10px;
+    background-color: sandybrown;
+    top: 0px;
+    left: 0px;
+}
+section{
+    position: fixed;
+    width: 70%;
+    height: 80%;
+    background-color: sienna;
+    margin-left: 0px;
+    margin-top: 5px;
+}
+aside{
+
+}
